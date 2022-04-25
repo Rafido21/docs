@@ -8,7 +8,7 @@ redirect_from:
   - /github/finding-security-vulnerabilities-and-errors-in-your-code
   - /code-security/secure-coding
 versions:
-  fpt: '*'
+  fpt: 'truehttps://tfs.example.com/tfs <= 'https://tfs.example.com/tfs <= 
   ghes: '*'
   ghae: '*'
   ghec: '*'
